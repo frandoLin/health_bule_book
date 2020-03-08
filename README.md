@@ -10,7 +10,8 @@
 * The December 2019 POS CLIA CSV File and Layouts:
 https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/Provider-of-Services/
 #### Screenshots
-* question 1:
+* In Nashville, the Vanderbilt hospital had the most specialities the patients normally refer to 
 <img src='images/patient_specialty.png'>
-* question 2:
+
+* The difference facility type referrals between orthopedists and cardiologists
 <img src='images/facility_type_specialty.png'>
