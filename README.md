@@ -11,6 +11,6 @@
 https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/Provider-of-Services/
 #### Screenshots
 * question 1:
-<img src='patient_specialty.png'>
+<img src='images/patient_specialty.png'>
 * question 2:
-<img src='facility_type_specialty.png'>
+<img src='images/facility_type_specialty.png'>
